@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Module_7.Unit_3.Models.Person" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.Employee" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.Guest" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.AbstractClass" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.FourLeggedAnimal" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FourLeggedAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.Dog">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.Cat">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.Processor">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Processor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.MotherBoard">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\MotherBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.GraphicCard">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GraphicCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module_7.Unit_3.Models.ComputerPart" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ComputerPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
